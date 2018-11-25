@@ -2,4 +2,8 @@
 Top selections of my Data Science work.
 
 ### About
-Still working on getting the files uploaded..
+Work done by me with Data Science. 
+
+### Environment
+* Jupyter-Hub
+* Libraries used: BeautifulSoup,JSON,Matplotlib,NumPy,Pandas,PySpark,Python-Twitter,re,Requests
