@@ -1,4 +1,4 @@
-# data-science-experience
+# data-science
 Top selections of my Data Science work.
 
 ### About
