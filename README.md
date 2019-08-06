@@ -2,7 +2,7 @@
 Top selections of my Data Science work.
 
 ### About
-Work done with Data Science. 
+Note: There is no descriptive outline for any of the works at the moment; only the code exists to browse.
 
 ### Environment
 * Jupyter-Hub
