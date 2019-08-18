@@ -2,7 +2,7 @@
 Top selections of my Data Science work.
 
 ### About
-Note: There is no descriptive outline for any of the works at the moment; only the code exists to browse.
+1. Boston Crime Analysis is an analyzation of law enforcement responses in Boston from 2015 - 2018.
 
 ### Environment
 * Jupyter-Hub
