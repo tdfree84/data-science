@@ -22,4 +22,5 @@ Top selections of my Data Science work.
 
 ### Environment
 * Jupyter-Hub
-* Libraries used: BeautifulSoup, JSON, Matplotlib, NumPy, Pandas, PySpark, Python-Twitter, re, Requests
+* Anaconda
+* Ubuntu Server
