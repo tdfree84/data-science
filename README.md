@@ -1,5 +1,5 @@
 # data-science
-Top selections of my Data Science work.
+Top selections of my Data Science work. I highly recommend viewing the **first three** I describe below.
 
 ### Environment
 * Jupyter-Hub
