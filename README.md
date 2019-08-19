@@ -1,6 +1,11 @@
 # data-science
 Top selections of my Data Science work.
 
+### Environment
+* Jupyter-Hub
+* Anaconda
+* Ubuntu Server
+
 ### About
 1. **Boston Crime Analysis** is an analyzation of law enforcement responses in Boston from 2015 - 2018.
       - *Libraries used*: KMeans, DecisionTreeClassifier, preprocessing, Matplotlib, NumPy, Pandas
@@ -26,7 +31,3 @@ Top selections of my Data Science work.
 8. **Spark passwords** goes through finding the most common passwords in a dataset provided by a former professor.
       - *Libraries*: pyspark
 
-### Environment
-* Jupyter-Hub
-* Anaconda
-* Ubuntu Server
